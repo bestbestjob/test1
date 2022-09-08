@@ -11,16 +11,16 @@ Web3岗位需求（Linux, Rust, Java, golang，智能合约，商务，运营）
 </div>
 <br/>
 
-English |  [简体中文](./README-zh_CN.md) 
+简体中文 |  [English](./README.md) 
 
 ## ✨ Features
 
-- 🌈 Enterprise-class UI designed for web applications.
-- 📦 A set of high-quality React components out of the box.
-- 🛡 Written in TypeScript with predictable static types.
-- ⚙️ Whole package of design resources and development tools.
-- 🌍 Internationalization support for dozens of languages.
-- 🎨 Powerful theme customization in every detail.
+- 🌈 111很牛
+- 📦 21很牛
+- 🛡 311很牛
+- ⚙️ 151很牛
+- 🌍 161很牛
+- 🎨 71很牛
 
 
 
